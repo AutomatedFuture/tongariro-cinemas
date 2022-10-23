@@ -62,9 +62,9 @@ function Payment(props) {
     // Fill form button
 
     const fillForm = (e) => {
-        setFirstName("Saabiq");
-        setLastName("Chowdhury");
-        setEmailAddress("contact@sebchowdhury.com");
+        setFirstName("Sebastian");
+        setLastName("Peaks");
+        setEmailAddress("contact@testcinemaswebsite.com");
         setPhoneNumber("021 000 000");
         setCcNumber("1111 1111 1111 1111");
         setExpiryMonth("07");
